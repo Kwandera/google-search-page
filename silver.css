@@ -27,10 +27,18 @@ header{
 }
 footer{
     background: #F6E4E0;
+    text-align: left;
     
 }
 .main-footer ul li{
     background: aqua;
     list-style-type:none;
     display: inline-block;
+}
+#language{
+    margin-top: 20px;
+}
+
+#search{
+    margin-top: 20px;
 }
